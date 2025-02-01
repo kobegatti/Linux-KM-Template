@@ -2,9 +2,6 @@
 #include <linux/kernel.h>
 #include <linux/init.h>
 #include <linux/netdevice.h>
-#include <linux/fs.h>
-#include <linux/device.h>
-#include <linux/kdev_t.h>
 
 static void print_network_devices(void)
 {
